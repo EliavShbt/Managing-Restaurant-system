@@ -1,4 +1,4 @@
-# Managing-Restaurant-system
+# Restaurant mangement system
 System for managing restaurant orders and bills, handling each table's bill and dishes.
 The project is all written in 'C' language and uses files only, meaning there is no interaction with the user directly, it reads the Instructions from the 'Instructions.txt' file and getting the info about the possible meals and type of food from 'Manot.txt' file - for example ->
 "Steak 31 25" = The restaurant has 'Steak' meal with 40 possible steak units to sell in 25$ for each steak.
