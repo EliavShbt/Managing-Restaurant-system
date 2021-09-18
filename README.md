@@ -11,7 +11,7 @@ The project is all written in 'C' language and uses files only, meaning there is
 To run this project, run 'main.c' file.
 * 'Instructions.txt' file - The first line in the file stands for the number of tables available in the restaurant
   Each line start with number that represent the instruction the program needs to execute
-`
+```
 '1' = Creating the possible dishes(meals) in the kitchen that the restaurant can sale
 '2' = Updating stock of specific meal
 '3' = Ordering meals to a spesific table
