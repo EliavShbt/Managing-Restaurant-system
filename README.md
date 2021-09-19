@@ -5,7 +5,7 @@
 
 ## General info
 System for managing restaurant orders and bills, handling each table's bill and dishes.   
-The project is all written in 'C' language and uses files only, meaning there is no interaction with the user directly,    it reads the Instructions from the 'Instructions.txt' file and getting the info about the possible meals and type of food from 'Manot.txt' file.
+The project is all written in 'C' language and uses files only, meaning there is no interaction with the user directly, <br />it reads the Instructions from the 'Instructions.txt' file and getting the info about the possible meals and type of food from 'Manot.txt' file.
 	
 ## Setup
 To run this project, run 'main.c' file.
